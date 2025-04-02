@@ -3,22 +3,22 @@
  readme.md                     # This README file
 
  Code/                         # Contains scripts and notebooks for analysis
-  Segura/                     # Contributions from team member 1
-  Paniki/                     # Contributions from team member 2
-  Holt/                       # Contributions from team member 3
+  Segura/                      # Contributions from Sebastian, analyzing a direct replication attempt
+  Paniki/                      # Contributions from Vaishnavi, analyzing a replication attempt with added errors, emulating a poorly documented paper to reproduce
+  Holt/                        # Contributions from Will, this role focused entirely on organization and the final report
 
  Data/                         # Dataset storage
-  original/                   # Raw, unprocessed data
-  processed/                  # Cleaned and transformed data
+  original/                    # Raw, unprocessed data link, files too large
+  processed/                   # Cleaned and transformed data link, files too large
 
  Collaboration/                # Meeting notes and project discussions
-  WeekA.docx                  # Notes from Week A
-  WeekB.docx                  # Notes from Week B
+  WeekA.docx                   # AI Generated Summary Notes from Week A
+  WeekB.docx                   # AI Generated Summary Notes from Week B
 
  Analysis/                     # Results and figures
-  figures/                    # Graphs, plots, and visualizations
-  results/                    # Final computed results and summaries
+  figures/                     # Intermediate figures from analysis highlighting differences in replication
+  results/                     # Final computed results
 
- Environment/                   # Software dependencies
+ Environment/                  # Software dependencies
   requirements.txt             # List of required Python packages
 ```
